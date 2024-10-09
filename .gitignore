@@ -1,0 +1,6 @@
+built-images/*
+built-images/compressed/*
+!built-images/*.gitkeep
+!built-images/compressed
+!built-images/compressed/.gitkeep
+iso/*.iso*
